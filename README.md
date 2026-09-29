@@ -2,6 +2,7 @@
 Here  I am Learning basic of Python and DSA 
 
 solving problem.py
+https://github.com/Vinaygowdacv/Python-/blob/400a5a7e6ce880ff794cbe176734636b7bad6d22/solving%20problem.py
 
 1.Even or Odd
   Take a number from the user and check whether it is even or odd.
