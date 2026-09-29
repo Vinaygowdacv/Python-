@@ -1,6 +1,8 @@
 # Python-
 Here  I am Learning basic of Python and DSA 
 
+solving problem.py
+
 1.Even or Odd
   Take a number from the user and check whether it is even or odd.
 2.Positive or Negative
